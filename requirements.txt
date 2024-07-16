@@ -141,7 +141,7 @@ scipy==1.11.4
 seaborn @ file:///home/conda/feedstock_root/build_artifacts/seaborn-split_1704312987503/work
 segregation @ file:///home/conda/feedstock_root/build_artifacts/segregation_1696427305843/work
 Send2Trash @ file:///home/conda/feedstock_root/build_artifacts/send2trash_1682601222253/work
-setuptools==69.0.3
+setuptools>=70.0.0
 shapely @ file:///home/conda/feedstock_root/build_artifacts/shapely_1700762839775/work
 simplejson @ file:///home/conda/feedstock_root/build_artifacts/simplejson_1696595906711/work
 sip @ file:///home/conda/feedstock_root/build_artifacts/sip_1697300425834/work
